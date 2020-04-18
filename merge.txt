@@ -1,3 +1,6 @@
+
+$git remote add origin ssh://git@example.com:1234/myRepo.git
+
 this is some content to mess with
 
 branch1
