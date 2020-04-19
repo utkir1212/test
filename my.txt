@@ -4,3 +4,7 @@ git stash
 git stash apply
 
 https://github.com/utkir1212/test.git
+q
+
+w
+e
