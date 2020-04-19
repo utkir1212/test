@@ -1,3 +1,6 @@
+
+$git remote add origin ssh://git@example.com:1234/myRepo.git
+
 this is some content to mess with
 
 branch1
@@ -9,4 +12,12 @@ okok3
 okosdvdsvk4
 1
 
+<<<<<<< HEAD
 2
+=======
+2
+
+3
+
+4
+>>>>>>> 10421ea5c6e79d65f28855e149c5794899fb1772
